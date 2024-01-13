@@ -1,0 +1,3 @@
+yeh maine ek Text file banai hai. Mujhe acha acha sa lag riya hai !
+yeh dusri line hai .
+meri marzi kuch bhi text likhu kyunki yeh text file hai.
